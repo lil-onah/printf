@@ -1,2 +1,3 @@
 # Creating a printf function.
-## Created by - Onah Godwin
+## Created by: 
+Onah Godwin
